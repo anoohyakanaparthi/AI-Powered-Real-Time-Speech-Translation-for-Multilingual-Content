@@ -1,0 +1,24 @@
+# Ignore the virtual environment completely
+venv/
+
+# Ignore environment & cache files
+# Ignore environment files
+.env
+backend/.env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+
+# Ignore media files
+*.mp4
+*.wav
+.env
